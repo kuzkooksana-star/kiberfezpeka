@@ -1,5 +1,3 @@
-# kiberfezpeka
-Навчальний проєкт
 <!DOCTYPE html>
 <html lang="uk">
 <head>
